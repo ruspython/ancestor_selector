@@ -7,6 +7,6 @@ jQuery plugin for selecting ancestors
 <div id='d3' class='a b'><div class='y'></div></div>
 <div id='d4' class='a b'><div class='x'></div></div>
 ```
-selector 
+
 ```$('body').ancestors('.a > .x < .b')``` returns the DIVs ```#d1``` and ```#d4``` as jQuery element.
 
