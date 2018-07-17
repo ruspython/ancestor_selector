@@ -10,3 +10,4 @@ jQuery plugin for selecting ancestors
 
 ```$('body').ancestors('.a > .x < .b')``` returns the DIVs ```#d1``` and ```#d4``` as jQuery element.
 
+Network for professionals [Soshace](https://soshace.com)
